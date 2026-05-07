@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jaxonhowie
-- 👀 I’m interested in Java programming
-- 🌱 I’m currently learning Zookeeper&Spring Boot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 635072863@qq.com
+- 👀 Working REALLY hard on Agentic Coding
+- 📫 Reach me at: 635072863@qq.com
 
 <!---
 jaxonhowie/jaxonhowie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
